@@ -1,7 +1,7 @@
 ---
-date: '2022-07-08T11:50:54.000Z'
-title: Second Blog
-tagline: This is a Tagline If you want to add.
+date: '2023-11-17T11:50:54.000Z'
+title: Server Hosting and Cloud Computing
+tagline: Work In Progress
 preview: >-
   Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
